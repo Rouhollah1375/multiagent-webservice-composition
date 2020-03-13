@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4abd91-9b18-4157-855f-062fc53d2c4b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmxW0wXI66JkQgRXRxt5ctSU6J" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jade.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="message" />
+      <recent name="agent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rouhollah\amas-final-project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="jade" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="amas-final-project" />
+      <option name="PROGRAM_PARAMETERS" value="-gui Dispatcher:agent.DispatcherAgent;Rouhollah:agent.UserAgent(task1,5000);Ali:agent.UserAgent(task1,3000);Comp1:agent.CompositorAgent;Comp2:agent.CompositorAgent;Comp3:agent.CompositorAgent;Comp4:agent.CompositorAgent;SA1:agent.ServiceAgent(A);SB1:agent.ServiceAgent(B);SC1:agent.ServiceAgent(C);SD1:agent.ServiceAgent(D);SE1:agent.ServiceAgent(E);SF1:agent.ServiceAgent(F);SG1:agent.ServiceAgent(G);SH1:agent.ServiceAgent(H);SA2:agent.ServiceAgent(A);SB2:agent.ServiceAgent(B);SC2:agent.ServiceAgent(C);SD2:agent.ServiceAgent(D);SE2:agent.ServiceAgent(E);SF2:agent.ServiceAgent(F);SG2:agent.ServiceAgent(G);SH2:agent.ServiceAgent(H);SA3:agent.ServiceAgent(A);SB3:agent.ServiceAgent(B);SC3:agent.ServiceAgent(C);SD3:agent.ServiceAgent(D);SE3:agent.ServiceAgent(E);SF3:agent.ServiceAgent(F);SG3:agent.ServiceAgent(G);SH3:agent.ServiceAgent(H);SA4:agent.ServiceAgent(A);SB4:agent.ServiceAgent(B);SC4:agent.ServiceAgent(C);SD4:agent.ServiceAgent(D);SE4:agent.ServiceAgent(E);SF4:agent.ServiceAgent(F);SG4:agent.ServiceAgent(G);SH4:agent.ServiceAgent(H);" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4abd91-9b18-4157-855f-062fc53d2c4b" name="Default Changelist" comment="" />
+      <created>1579768600166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579768600166</updated>
+      <workItem from="1579768606513" duration="17651000" />
+      <workItem from="1579807446556" duration="22061000" />
+      <workItem from="1579830441189" duration="5510000" />
+      <workItem from="1579857951630" duration="2047000" />
+      <workItem from="1579945525057" duration="3448000" />
+      <workItem from="1579982734115" duration="948000" />
+      <workItem from="1582287012573" duration="1293000" />
+      <workItem from="1584109861587" duration="3982000" />
+      <workItem from="1584117090086" duration="9167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
